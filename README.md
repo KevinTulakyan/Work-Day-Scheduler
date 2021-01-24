@@ -1,6 +1,7 @@
 # Work-Day-Scheduler
 - Built for saving Schedule
 - Used HTML, CSS and JavaScript
+- https://kevintulakyan.github.io/Work-Day-Scheduler/
 
 ![Homepage](./assets/image/day1.PNG)
 
